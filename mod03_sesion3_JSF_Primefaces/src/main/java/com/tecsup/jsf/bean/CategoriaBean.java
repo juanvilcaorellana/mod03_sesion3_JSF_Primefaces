@@ -12,7 +12,7 @@ import com.tecsup.negocio.GestionProductos;
 
 @ManagedBean(name = "categoriaBean")
 @RequestScoped
-
+// aplicando cambios
 public class CategoriaBean {
 
 	private int idCategoria;
