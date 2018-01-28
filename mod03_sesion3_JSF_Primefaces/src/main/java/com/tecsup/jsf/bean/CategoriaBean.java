@@ -9,10 +9,9 @@ import com.tecsup.modelo.Categoria;
 import com.tecsup.modelo.Producto;
 import com.tecsup.negocio.GestionCategorias;
 import com.tecsup.negocio.GestionProductos;
-
+//aplicando cambios
 @ManagedBean(name = "categoriaBean")
 @RequestScoped
-// aplicando cambios
 public class CategoriaBean {
 
 	private int idCategoria;
